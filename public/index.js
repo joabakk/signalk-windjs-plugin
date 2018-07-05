@@ -1,5 +1,5 @@
 
-const BASE_URL = '/plugins/signalk-windjs-plugin/latest'
+const BASE_URL = '/plugins/signalk-windjs/latest'
 
 function initMap () {
   const EsriDarkGreyCanvas = L.tileLayer('http://{s}.sm.mapstack.stamen.com/(positron,$fff[difference],$fff[@23],$fff[hsl-saturation@20])/{z}/{x}/{y}.png', {
